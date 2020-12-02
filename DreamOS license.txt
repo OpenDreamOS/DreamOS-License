@@ -6,10 +6,10 @@ License of OpenDreamOS
 Our Code license is completely open,
 that means you can do whatever you want.
 
-Please try to improve our Operating System and not make an alternative one
+Please try to improve our Operating System and not make an alternative one.
 
 
-.
+
 
 
 -Dream OS Team
